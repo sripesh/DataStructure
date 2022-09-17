@@ -1,4 +1,8 @@
+#include <iostream>
+#include<stdlib.h>
 #include <bits/stdc++.h>
+#include <vector>
+#include <queue>
 
 #define MAX 10
 #define fori(n) for(int i=0;i<n;i++)
