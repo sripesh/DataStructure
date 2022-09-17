@@ -1,5 +1,7 @@
 #include <iostream>
 #include<stdlib.h>
+#include <vector>
+#include <queue>
 using namespace std;
 #define MAX 10
 #define fori(n) for(int i=0;i<n;i++)
@@ -1000,6 +1002,56 @@ class Dlist
                 }
                 cout<<endl;
             }
+        }
+};
+
+typedef struct treeNode
+{
+    int data;
+    treeNode* left;
+    treeNode* right;
+}treeNode;
+
+class T_binary
+{
+    treeNode* root;
+    
+    public:
+        void init()
+        {
+            root=NULL;
+        }
+        void insert()
+        {
+                        
+        }
+        void preOrder()
+        {
+            
+        }
+        void inOrder()
+        {
+
+        }
+        void postOrder()
+        {
+
+        }
+        void levelOrder()
+        {
+
+        }
+        void bfs()
+        {
+
+        }
+        void dfs()
+        {
+
+        }
+        void delNode()
+        {
+
         }
 };
 
