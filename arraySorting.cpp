@@ -1,4 +1,4 @@
-#include "structure.cpp"
+#include "linkedList.cpp"
 
 
 class Array

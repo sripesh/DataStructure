@@ -1,4 +1,4 @@
-#include "structure.cpp"
+#include "stack.cpp"
 
 
 class Queue_d

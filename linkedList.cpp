@@ -1,4 +1,4 @@
-#include "structure.cpp"
+#include "queue.cpp"
 
 
 class Slist
