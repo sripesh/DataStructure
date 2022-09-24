@@ -10,7 +10,7 @@ This [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp
 > All the above concepts are implemented in a single ***C++ Language***.
 
 ## **ARRAY SORTING**
-The [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp) containing the class `Array` with main functions:
+The [code](https://github.com/sripesh/DataStructure/blob/main/arraySorting.cpp) containing the class `Array` with main functions:
 - `bubble()`
 > This perform the [bubble sort](https://www.geeksforgeeks.org/bubble-sort/).
 - `insertion()`
@@ -25,19 +25,19 @@ The [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp)
 ![Comparison_image](https://s3.ap-south-1.amazonaws.com/afteracademy-server-uploads/comparison-of-sorting-algorithms-compare1-18082c14f960abf3.png)
 
 ## **STACK**
-The [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp) containing the classes `Stack_s` for [static stack](http://www.cppforschool.com/tutorial/ds.html) and `Stack_d` for [dynamic stack](http://www.cppforschool.com/tutorial/dynamic-stack.html) with main functions:
+The [code](https://github.com/sripesh/DataStructure/blob/main/stack.cpp) containing the classes `Stack_s` for [static stack](http://www.cppforschool.com/tutorial/ds.html) and `Stack_d` for [dynamic stack](http://www.cppforschool.com/tutorial/dynamic-stack.html) with main functions:
 - `push(..)`
 - `pop()`
 - `peek()`
 
 ## **QUEUE**
-The [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp) containing the classes `Queue_s` for [static queue](https://scanftree.com/Data_Structure/Static-Queue) and `Queue_d` for [dynamic queue](https://scanftree.com/Data_Structure/dynamic-queue) with main functions:
+The [code](https://github.com/sripesh/DataStructure/blob/main/queue.cpp) containing the classes `Queue_s` for [static queue](https://scanftree.com/Data_Structure/Static-Queue) and `Queue_d` for [dynamic queue](https://scanftree.com/Data_Structure/dynamic-queue) with main functions:
 - `push(..)`
 - `pop()`
 - `peek()`
 
 ## **LINKED LIST**
-The [code](https://github.com/sripesh/DataStructure/blob/main/DataStructure.cpp) containing the classes `Slist` for [singly linked list](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/) , `Clist` for [circular linked list](https://www.geeksforgeeks.org/circular-linked-list/) and `Dlist` for [doubly linked list](https://www.geeksforgeeks.org/doubly-linked-list/) with main functions:
+The [code](https://github.com/sripesh/DataStructure/blob/main/linkedList.cpp) containing the classes `Slist` for [singly linked list](https://www.geeksforgeeks.org/data-structures/linked-list/singly-linked-list/) , `Clist` for [circular linked list](https://www.geeksforgeeks.org/circular-linked-list/) and `Dlist` for [doubly linked list](https://www.geeksforgeeks.org/doubly-linked-list/) with main functions:
 - `addend(int info)`
 > This adds new data at the end of the list.
 - `addbeg(int info)`
